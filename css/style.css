@@ -1,0 +1,45 @@
+.img-card-fit {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.img-cont {
+    height: 200px;
+    overflow: hidden;
+    background-color: beige;
+}
+
+.card-content{
+    height: 150px;
+    overflow: auto;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+  }
+
+.checked{
+    color: orange;
+}
+
+.offcanvas-top{
+    height: fit-content;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+   
+}
+ li p {
+    color: grey;
+    font-style: oblique;
+ }
+ .list-group{
+    border-color: black;
+ }
+ .divStars{
+    margin-left: 60rem;
+ }
+ 
